@@ -1,0 +1,19 @@
+body {
+    font-family: "Open Sans";
+}
+
+#main {
+    margin: 10px 20px;
+}
+
+.pokemon-div {
+    margin-top: 30px;
+}
+
+.pokemon-name {
+    color: #f00db0;
+}
+
+p {
+    color: #240df0;
+}

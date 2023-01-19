@@ -1,0 +1,56 @@
+body {
+  font: 12px sans-serif;
+}
+#legend {
+	font: 12px sans-serif;
+}
+
+.tick > line {
+	fill: none;
+	stroke: black;
+}
+.tick > text {
+	fill: black;
+}
+
+path.domain {
+	fill: none;
+	stroke-width: 2px;
+	stroke: black;
+}
+
+#wrapper {
+	clear:both;
+}
+#chart1 {
+  float:left;
+}
+#chart2{
+	float:left;
+}
+#chart3 {
+	float:left;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+
+
+.low-calorie-circle {
+	fill: #f1bfbe;
+	opacity: 0.6;
+}
+
+.mid-calorie-circle {
+	fill: #e52824;
+	opacity: 0.6;
+}
+
+.high-calorie-circle {
+	fill: #960808;
+	opacity: 0.6;
+}
+
+.non_brushed {
+	fill: darkgrey;
+	opacity: 0.6;
+}
